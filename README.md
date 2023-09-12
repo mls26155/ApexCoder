@@ -39,7 +39,7 @@ Computer Engineer | Full Stack Developer | Embedded Systems Enthusiast
   - Managed input/output port mapping and bitstream file generation for FPGA programming.
 
 🌎 **Interests**:
-Apart from coding, I enjoy reading, listening to music, and traveling. As a lifelong learner, I'm always seeking new knowledge and experiences to broaden my perspective and enhance my skills.
+Apart from coding, I enjoy photography, video editing, and ballroom dancing. As a lifelong learner, I'm always seeking new knowledge and experiences to broaden my perspective and enhance my skills.
 
 📧 **Contact**:
 - 📧 Email: mschro2@gmu.edu
