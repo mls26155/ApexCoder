@@ -19,18 +19,6 @@ Computer Engineer | Full Stack Developer | Embedded Systems Enthusiast
 - Electronic Design: Pspice, Multisim, Xilinx Vivado
 - Computer Vision: OpenCV
 
-📚 **Courses**:
-- Data Structures and Algorithms
-- Object-Oriented Programming
-- Computer Organization
-- Signals and Systems
-- Cryptography Fundamentals
-- Device Driver Development
-- Embedded System Hardware Interfaces
-- C Programming
-- Microcontrollers
-- Operating Systems
-
 🌟 **Projects**:
 - **DanceTube - Your Ultimate Dance Video Platform** (Aug 2023 - Sep 2023)
   - Developed a full-stack YouTube clone for dance enthusiasts.
