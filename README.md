@@ -14,10 +14,19 @@ Computer Engineer | Full Stack Developer | Embedded Systems Enthusiast
 - Frameworks/Libraries: Next.js, Angular
 - Databases: MySQL, MongoDB
 - Developer Tools: AWS (EC2, S3, Lambda), Git, GitHub, Visual Studio Code, Eclipse, Embedded Linux
-- Video Processing: FFmpeg
 - Cloud Services: Firebase, Google Cloud (Storage, Pub/Sub, Run)
 - Electronic Design: Pspice, Multisim, Xilinx Vivado
-- Computer Vision: OpenCV
+
+🌟 **Experience**:
+- **Full Stack Web Developer Intern** at Wasabi Lingo (May 2023 - Aug 2023)
+  - Engineered a bespoke game engine harnessing the power of JavaScript and the Web Speech API.
+  - Designed and implemented a web-based GUI using React.js and Node.js.
+  - Optimized content creation processes by seamlessly integrating AWS S3.
+  
+- **President of the NVCC Coding Club** (Dec 2021 - Jun 2022)
+  - Led a 400+ member club, fostering a supportive learning community.
+  - Conducted Java programming workshops and mentored club members.
+  - Organized and participated in hackathons to encourage innovation and collaboration.
 
 🌟 **Projects**:
 - **DanceTube - Your Ultimate Dance Video Platform** (Aug 2023 - Sep 2023)
